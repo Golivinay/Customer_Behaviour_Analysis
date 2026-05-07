@@ -39,69 +39,72 @@ Power BI
 👨‍💻 Project Workflow :
 
 1. Data Loading :
-Imported dataset into Python
 
-Checked data structure and datatypes
-
-Verified null values and duplicates
+   Imported dataset into Python
+   
+   Checked data structure and datatypes
+   
+   Verified null values and duplicates
 
 2. Exploratory Data Analysis (EDA) :
    
-Analyzed distributions and trends
-
-Identified correlations and patterns
-
-Generated visual insights using charts and graphs
+   Analyzed distributions and trends
+   
+   Identified correlations and patterns
+   
+   Generated visual insights using charts and graphs
 
 4. Data Cleaning :
    
-Removed duplicate records
-
-Handled missing values
-
-Standardized column names and formats
-
-Corrected inconsistent data entries
+   Removed duplicate records
+   
+   Handled missing values
+   
+   Standardized column names and formats
+   
+   Corrected inconsistent data entries
 
 5. SQL Analysis : 
 
-Executed SQL queries using:
-
-PostgreSQL
-/MySQL
-/SQL Server
+   Executed SQL queries using:
+   
+   PostgreSQL
+   /MySQL
+   /SQL Server
 
 Example Analysis
 
-Top-performing categories
-
-Revenue and sales trends
-
-Customer behavior analysis
-
-KPI calculations
+   Top-performing categories
+   
+   Revenue and sales trends
+   
+   Customer behavior analysis
+   
+   KPI calculations
 
 5. Power BI Dashboard :
 
-Built an interactive dashboard featuring 
+   Built an interactive dashboard featuring 
+   
+   KPI cards
+   
+   Trend analysis
+   
+   Filters and slicers
+   
+   Category-wise performance
+   
+   Business insights visualization
 
-KPI cards
-
-Trend analysis
-
-Filters and slicers
-
-Category-wise performance
-
-Business insights visualization
 
 6. Reporting & Presentation
    
-Prepared a detailed analytical report
+   Prepared a detailed analytical report
 
-Created a professional presentation using Gamma
+   Created a professional presentation using Gamma
 
-Summarized findings and recommendations
+   Summarized findings and recommendations
+   
 
 Results & Insights :
 
